@@ -3,4 +3,4 @@ My first repository in github!
 
 Welcome to Git!
 
-Test the "fetch" function.
+Test the "fetch" function for twice.
